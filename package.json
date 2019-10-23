@@ -1,0 +1,9 @@
+{
+  "name": "sf-lightning",
+  "version": "0.0.0-development",
+  "main": "lib/index.js",
+  "scripts": {},
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
